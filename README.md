@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Hash Table
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
