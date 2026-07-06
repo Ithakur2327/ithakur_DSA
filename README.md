@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
+| [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
+| [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Hash Table
 |  |
