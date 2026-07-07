@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Tree
 |  |
 | ------- |
