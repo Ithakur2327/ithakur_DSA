@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
