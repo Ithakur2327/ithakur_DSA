@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0724-find-pivot-index) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -85,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
