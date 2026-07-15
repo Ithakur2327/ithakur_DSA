@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0724-find-pivot-index) |
+| [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Sorting
 |  |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
