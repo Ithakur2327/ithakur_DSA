@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3206-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
