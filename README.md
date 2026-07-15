@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
