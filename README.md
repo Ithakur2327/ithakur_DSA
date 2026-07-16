@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3206-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1920-build-array-from-permutation) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Tree
 |  |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
 | ------- |
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
