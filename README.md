@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
