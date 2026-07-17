@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
