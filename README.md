@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
