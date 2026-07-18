@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
