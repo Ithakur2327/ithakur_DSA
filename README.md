@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0917-reverse-only-letters) |
@@ -371,4 +372,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
