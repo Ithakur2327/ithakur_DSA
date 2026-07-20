@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0897-increasing-order-search-tree) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Recursion
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
