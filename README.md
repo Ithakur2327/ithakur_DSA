@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0785-is-graph-bipartite](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0785-is-graph-bipartite](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1971-find-if-path-exists-in-graph) |
