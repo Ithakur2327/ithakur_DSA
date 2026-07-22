@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
@@ -465,4 +468,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0802-find-eventual-safe-states) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
