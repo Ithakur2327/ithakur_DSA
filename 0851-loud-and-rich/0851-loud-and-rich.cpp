@@ -1,0 +1,36 @@
+class Solution {
+public:
+    vector<int>loudAndRich(vector<vector<int>>&richer,vector<int>&quiet) {
+        int n=quiet.size();
+        vector<vector<int>>adj(n);
+        vector<int>indegree(n,0);
+        for(auto &edge:richer) {
+            adj[edge[0]].push_back(edge[1]);
+            indegree[edge[1]]++;
+        }
+        queue<int>q;
+        for(int i=0;i<n;i++) {
+            if(indegree[i]==0) {
+                q.push(i);
+            }
+        }
+        vector<int>ans(n);
+        for(int i=0;i<n;i++) {
+            ans[i]=i;
+        }
+        while(!q.empty()) {
+            int node=q.front();
+            q.pop();
+            for(int nbr:adj[node]) {
+                if(quiet[ans[node]]<quiet[ans[nbr]]) {
+                    ans[nbr]=ans[node];
+                }
+                indegree[nbr]--;
+                if(indegree[nbr]==0) {
+                    q.push(nbr);
+                }
+            }
+        }
+        return ans;
+    }
+};
