@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0724-find-pivot-index) |
+| [0851-loud-and-rich](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0851-loud-and-rich) |
 | [0904-fruit-into-baskets](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0851-loud-and-rich) |
 | [0897-increasing-order-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0851-loud-and-rich) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -468,5 +471,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0851-loud-and-rich) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
