@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0330-patching-array) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0724-find-pivot-index) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
