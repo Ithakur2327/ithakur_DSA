@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
