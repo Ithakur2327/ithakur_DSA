@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2413-smallest-even-multiple) |
+| [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
+| [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
