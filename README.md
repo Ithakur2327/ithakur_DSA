@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
