@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
+| [0991-broken-calculator](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0991-broken-calculator](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
