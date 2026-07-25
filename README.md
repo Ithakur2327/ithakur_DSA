@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
