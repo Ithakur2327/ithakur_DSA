@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
 ## Hash Table
