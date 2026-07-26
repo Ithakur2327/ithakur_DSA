@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3206-alternating-groups-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
