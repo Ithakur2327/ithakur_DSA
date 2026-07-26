@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
