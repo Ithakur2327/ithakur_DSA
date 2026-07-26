@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1920-build-array-from-permutation) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
 ## Counting Sort
 |  |
