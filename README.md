@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0724-find-pivot-index) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0851-loud-and-rich](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0851-loud-and-rich) |
 | [0881-boats-to-save-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0881-boats-to-save-people) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0897-increasing-order-search-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0948-bag-of-tokens) |
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
