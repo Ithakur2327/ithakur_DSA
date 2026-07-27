@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2938-separate-black-and-white-balls) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2938-separate-black-and-white-balls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3884-first-matching-character-from-both-ends) |
