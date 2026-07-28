@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [0127-word-ladder](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Number Theory
 |  |
