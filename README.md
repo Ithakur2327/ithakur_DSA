@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2413-smallest-even-multiple](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2413-smallest-even-multiple) |
 | [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Backtracking
 |  |
 | ------- |
