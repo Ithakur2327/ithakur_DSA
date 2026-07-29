@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
