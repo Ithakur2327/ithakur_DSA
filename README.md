@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1675-minimize-deviation-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1675-minimize-deviation-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1675-minimize-deviation-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1675-minimize-deviation-in-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Bitmask
 |  |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1675-minimize-deviation-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
