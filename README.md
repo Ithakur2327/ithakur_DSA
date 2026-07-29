@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0376-wiggle-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0680-valid-palindrome-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
+| [0376-wiggle-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
