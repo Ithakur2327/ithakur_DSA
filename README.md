@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
 | [2938-separate-black-and-white-balls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2938-separate-black-and-white-balls) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
