@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
