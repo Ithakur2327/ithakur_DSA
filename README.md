@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -686,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Design
+|  |
+| ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
