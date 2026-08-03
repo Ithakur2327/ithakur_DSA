@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
+| [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-stone-game-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1406-stone-game-iii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
+| [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 | [0917-reverse-only-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0881-boats-to-save-people) |
+| [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0948-bag-of-tokens) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -720,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
