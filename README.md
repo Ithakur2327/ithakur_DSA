@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
 | [0991-broken-calculator](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1406-stone-game-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Backtracking
