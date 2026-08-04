@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0127-word-ladder) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
@@ -745,4 +748,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0944-delete-columns-to-make-sorted) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
