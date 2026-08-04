@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
+| [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0680-valid-palindrome-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
 | [0376-wiggle-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
+| [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
+| [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Monotonic Queue
 |  |
@@ -578,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
