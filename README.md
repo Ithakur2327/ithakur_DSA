@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3206-alternating-groups-i) |
