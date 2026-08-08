@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2864-maximum-odd-binary-number) |
 | [2938-separate-black-and-white-balls](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
 | ------- |
