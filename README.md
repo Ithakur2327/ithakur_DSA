@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1406-stone-game-iii) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
