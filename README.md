@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1675-minimize-deviation-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1675-minimize-deviation-in-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0948-bag-of-tokens) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
