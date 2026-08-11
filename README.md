@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Number Theory
 |  |
@@ -818,4 +822,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2122-recover-the-original-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
