@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0969-pancake-sorting) |
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
+| [0986-interval-list-intersections](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0969-pancake-sorting) |
+| [0986-interval-list-intersections](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0986-interval-list-intersections) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -835,4 +837,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
