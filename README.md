@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0740-delete-and-earn) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0832-flipping-an-image) |
 | [0851-loud-and-rich](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0851-loud-and-rich) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
+| [0781-rabbits-in-forest](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0781-rabbits-in-forest) |
 | [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0740-delete-and-earn](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0781-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
