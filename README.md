@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0491-non-decreasing-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0652-find-duplicate-subtrees) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0832-flipping-an-image](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0037-sudoku-solver) |
+| [0491-non-decreasing-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
