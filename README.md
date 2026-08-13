@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
+| [0299-bulls-and-cows](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0299-bulls-and-cows) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0299-bulls-and-cows) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0133-clone-graph) |
+| [0299-bulls-and-cows](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0299-bulls-and-cows) |
 | [0433-minimum-genetic-mutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
