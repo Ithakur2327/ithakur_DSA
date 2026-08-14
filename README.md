@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1817-finding-the-users-active-minutes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1817-finding-the-users-active-minutes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2122-recover-the-original-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2122-recover-the-original-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
