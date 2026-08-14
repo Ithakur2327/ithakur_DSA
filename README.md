@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
