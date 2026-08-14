@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3668-restore-finishing-order) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
