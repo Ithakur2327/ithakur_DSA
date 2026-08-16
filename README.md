@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0130-surrounded-regions) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0015-3sum) |
 | [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0621-task-scheduler](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
