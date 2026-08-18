@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0791-custom-sort-string) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 | [0917-reverse-only-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0740-delete-and-earn) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1092-shortest-common-supersequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0791-custom-sort-string) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0904-fruit-into-baskets](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
