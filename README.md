@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
 | [0781-rabbits-in-forest](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0781-rabbits-in-forest) |
+| [0887-super-egg-drop](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0740-delete-and-earn) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0887-super-egg-drop](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0887-super-egg-drop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
