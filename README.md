@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
