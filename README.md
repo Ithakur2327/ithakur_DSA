@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0740-delete-and-earn) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0740-delete-and-earn) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1395-count-number-of-teams) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 ## Z Algorithm
 |  |
@@ -989,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1395-count-number-of-teams) |
 ## Longest Common Subsequence
 |  |
