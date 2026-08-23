@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2413-smallest-even-multiple](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2413-smallest-even-multiple) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Backtracking
 |  |
