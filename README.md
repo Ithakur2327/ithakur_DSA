@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0214-shortest-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0299-bulls-and-cows) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0337-house-robber-iii) |
