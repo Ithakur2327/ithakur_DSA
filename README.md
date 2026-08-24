@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1340-jump-game-v](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1340-jump-game-v) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1340-jump-game-v](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1340-jump-game-v) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1395-count-number-of-teams](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0969-pancake-sorting) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1340-jump-game-v](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
