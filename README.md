@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2122-recover-the-original-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2122-recover-the-original-array) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2965-find-missing-and-repeated-values) |
