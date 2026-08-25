@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2463-minimum-total-distance-traveled](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
+| [2463-minimum-total-distance-traveled](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2418-sort-the-people) |
+| [2463-minimum-total-distance-traveled](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
