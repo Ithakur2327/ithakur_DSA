@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2463-minimum-total-distance-traveled) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Euclidean Algorithm
 |  |
 | ------- |
