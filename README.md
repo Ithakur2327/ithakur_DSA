@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3206-alternating-groups-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2560-house-robber-iv) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3989-maximum-consistent-columns-in-a-grid) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Sorting
