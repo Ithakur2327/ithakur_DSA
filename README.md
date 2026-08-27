@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1745-palindrome-partitioning-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
