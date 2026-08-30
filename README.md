@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
