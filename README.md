@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2974-minimum-number-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2974-minimum-number-game) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3701-compute-alternating-sum) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2974-minimum-number-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2551-put-marbles-in-bags) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2931-maximum-spending-after-buying-items) |
+| [2974-minimum-number-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
