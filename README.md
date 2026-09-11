@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3668-restore-finishing-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3668-restore-finishing-order) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3731-find-missing-elements) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -1032,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2122-recover-the-original-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2122-recover-the-original-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
