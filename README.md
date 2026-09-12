@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0322-coin-change) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0376-wiggle-subsequence) |
 | [0621-task-scheduler](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0621-task-scheduler) |
