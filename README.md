@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
 | [0781-rabbits-in-forest](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0781-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0991-broken-calculator) |
@@ -1098,4 +1099,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
