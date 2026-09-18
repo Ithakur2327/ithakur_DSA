@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1278-palindrome-partitioning-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1544-make-the-string-great](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1544-make-the-string-great) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1402-reducing-dishes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
