@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1675-minimize-deviation-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1675-minimize-deviation-in-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1872-stone-game-viii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1726-tuple-with-same-product](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1748-sum-of-unique-elements) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0887-super-egg-drop](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0887-super-egg-drop) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2501-longest-square-streak-in-an-array) |
@@ -788,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
