@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0396-rotate-function) |
+| [0436-find-right-interval](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0491-non-decreasing-subsequences) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0436-find-right-interval) |
 | [0887-super-egg-drop](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0887-super-egg-drop) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0015-3sum) |
+| [0436-find-right-interval](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0472-concatenated-words) |
 | [0621-task-scheduler](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
