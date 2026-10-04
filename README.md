@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1046-last-stone-weight) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-last-stone-weight](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1046-last-stone-weight) |
 | [1675-minimize-deviation-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1686-stone-game-vi](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1686-stone-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1753-maximum-score-from-removing-stones) |
