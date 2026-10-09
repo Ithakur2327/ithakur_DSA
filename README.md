@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0038-count-and-say) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0115-distinct-subsequences) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0037-sudoku-solver) |
 | [0491-non-decreasing-subsequences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0856-score-of-parentheses) |
