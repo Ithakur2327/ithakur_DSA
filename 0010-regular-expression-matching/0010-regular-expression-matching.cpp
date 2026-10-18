@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>>dp;
-
     bool solve(int i,int j,string &s,string &p){
         if(j==p.size()){
             return i==s.size();
@@ -16,7 +15,6 @@ public:
         if(j+1<p.size()&&p[j+1]=='*'){
             return dp[i][j]=solve(i,j+2,s,p)||(match&&solve(i+1,j,s,p));
         }
-
         return dp[i][j]=match&&solve(i+1,j+1,s,p);
     }
 
