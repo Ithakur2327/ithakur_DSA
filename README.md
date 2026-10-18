@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0022-generate-parentheses) |
