@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Segment Tree
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Reservoir Sampling
 |  |
@@ -1194,4 +1197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1122-relative-sort-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
