@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2706-buy-two-chocolates) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3904-smallest-stable-index-ii) |
