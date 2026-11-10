@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3524-find-x-value-of-array-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
