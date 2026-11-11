@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3870-count-commas-in-range) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Counting
 |  |
