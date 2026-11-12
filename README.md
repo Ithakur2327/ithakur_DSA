@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3206-alternating-groups-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
