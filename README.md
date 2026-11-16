@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Ithakur2327/ithakur_DSA/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/Ithakur2327/ithakur_DSA/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ithakur2327/ithakur_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ithakur2327/ithakur_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
